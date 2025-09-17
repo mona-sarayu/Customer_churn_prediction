@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-# 📌 Overview
+# Overview
 Customer churn means when customers stop doing business with a company. In banking, churn happens when customers close their accounts or move to another bank.  
 
 This project applies deep learning models (MLP and LSTM) to predict whether a customer will stay (retained) or leave (churned). By identifying churn early, banks can take steps to retain valuable customers.
@@ -41,12 +41,12 @@ The aim of this project is to:
 - LSTM Accuracy: 89%  
 - Evaluation Metrics: Accuracy, Confusion Matrix, ROC Curve, Classification Report  
 
-# ✅ Conclusion
+# Conclusion
 - Both models successfully predicted customer churn.  
 - LSTM slightly outperformed MLP in terms of accuracy.  
 - Churn prediction can help banks reduce customer loss by taking proactive measures.  
 
-# 🚀 Future Scope
+# Future Scope
 - Integrate the churn prediction system with CRM platforms for real-time alerts.  
 - Implement feedback loops to improve accuracy with new data.  
 - Add explainable AI methods (like SHAP or LIME) to interpret predictions.  
